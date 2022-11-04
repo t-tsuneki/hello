@@ -9,6 +9,8 @@ int main()
 	printf("a = %d\n", a);
 	int b = 30;
 	printf("b = %d\n", b);
+	int d = 70;
+	printf("d = %d\n", d);
 	getchar();
 }
 
