@@ -11,6 +11,8 @@ int main()
 	printf("b = %d\n", b);
 	int d = 70;
 	printf("d = %d\n", d);
+	int c = 50;
+	printf("c = %d\n", c);
 	getchar();
 }
 
