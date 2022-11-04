@@ -5,9 +5,8 @@
 
 int main()
 {
-	int a = 10;
 	int b = 30;
-	printf("a + b = %d\n", a+b);
+	printf("b = %d\n", b);
 	getchar();
 }
 
