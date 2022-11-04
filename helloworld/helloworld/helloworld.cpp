@@ -9,10 +9,12 @@ int main()
 	printf("a = %d\n", a);
 	int b = 30;
 	printf("b = %d\n", b);
-	int d = 70;
-	printf("d = %d\n", d);
 	int c = 50;
 	printf("c = %d\n", c);
+	int d = 70;
+	printf("d = %d\n", d);
+	int e = 90;
+	printf("e = %d\n", e);
 	getchar();
 }
 
