@@ -11,6 +11,7 @@ int main()
 	printf("e = %d\n", e);
 
 	printf("total = %d\n", a+e);
+	// ok
 
 	getchar();
 }
