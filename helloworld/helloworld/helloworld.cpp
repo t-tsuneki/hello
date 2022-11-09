@@ -5,13 +5,11 @@
 
 int main()
 {
-	int a = 10;
-	int e = 50;
-	printf("a = %d\n", a);
-	printf("e = %d\n", e);
+	int a[3] = { 10, 20, 30 };
 
-	printf("total = %d\n", a+e);
-	// ok
+	for (int i = 0; i < 3; ++i) {
+		printf("a = %d\n", a[i]);
+	}
 
 	getchar();
 }
