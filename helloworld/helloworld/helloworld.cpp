@@ -16,6 +16,7 @@ int main()
 	printf("d = %d\n", d);
 	printf("e = %d\n", e);
 
+	printf("total = %d\n", a+b+c+d);
 	getchar();
 }
 
